@@ -1,1 +1,1 @@
-#Daiigr - Daniel Grbac Bravo
+# Daniel Grbac Bravo (aka. Daiigr)
