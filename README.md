@@ -13,23 +13,6 @@
 <img align="center" alt="Daiigr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daiigr&show_icons=true&hide_border=false&title_color=34ebe1&icon_color=fffff&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
-
-
-
-
-
-
-### Languages and Tools:
-
-<img align="center" title="VSCode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="center" title="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
-
-<img align="center" title="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-
-<img align="center" title="Android Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
-
-
 <img align="" alt="Daiigr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiigr&show_icons=true&hide_border=false&title_color=34ebe1&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
 
