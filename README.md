@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel! - aka [Daiigr] 👋 
+# Hi there, I'm Daniel!
  Currently Living in Qatar!
  
 ## I'm a High School Student, Developer, and Photographer!!
