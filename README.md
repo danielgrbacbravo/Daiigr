@@ -1,12 +1,12 @@
 # Hi there, I'm Daniel!
  Currently Living in Qatar!
+i want to study in Canada for Computer Science
  
 ## I'm a High School Student, Developer, and Photographer!!
 
 - 🤖 i'm currently appart of FIRST Tech Challange Team #21148 
 - 🌱 I’m currently learning Image Prossessing and TensorFlow for robotics
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get to the FTC world Championships
+- 🥅 2022 Goals: Qualify top 20 in FTC Championships
 - ⚡ Fun fact: i love to take Portraits and Candid Photography!
 
 
