@@ -1,5 +1,5 @@
 # Hi there! 👋
-
+![](https://komarev.com/ghpvc/?username=Daiigr&color=blueviolet)
 My name is Daniel
 
 I'm an aspiring tech enthusiast, currently working on my skills in Natural Language, Java, Python, and Huggingface. I'm also an avid participant in the First Tech Challenge.
