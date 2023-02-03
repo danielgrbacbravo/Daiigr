@@ -9,3 +9,8 @@ When I'm not coding away, you'll usually find me playing video games with friend
 In the rare moments when I'm not doing either of those, I'm probably making terrible puns. 
 
 Thanks for stopping by!
+
+## My Stats
+
+![Daiigr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiigr&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiigr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
