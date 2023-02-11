@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 Daniel Here
 ![](https://komarev.com/ghpvc/?username=Daiigr&color=blueviolet)
 My name is Daniel
 
