@@ -22,7 +22,7 @@ I am a student pursuing a BSc in Computer Science at the University of Groningen
 
 ##  Statistics
 
-![Daiigr's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=false)
+![Daiigr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiigr&theme=dark&show_icons=false)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiigr&show_icons=true&locale=en&layout=compact&theme=dark" alt="daiigr" /></p>
 
