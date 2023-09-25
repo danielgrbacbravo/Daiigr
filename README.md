@@ -21,7 +21,10 @@ I am a student pursuing a BSc in Computer Science at the University of Groningen
 
 
 ##  Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiigr&show_icons=true&locale=en&layout=compact&theme=dark" alt="daiigr" #gh-dark-mode-only /></p>
+
+![Daiigr's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=false)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiigr&show_icons=true&locale=en&layout=compact&theme=dark" alt="daiigr" /></p>
 
 
 [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daiigr&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
