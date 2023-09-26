@@ -5,10 +5,6 @@ I'm a BSc Computer Science student at the University of Groningen, with a passio
 [![wakatime](https://wakatime.com/badge/user/f84f446e-f24e-4763-8876-87a675a4751f.svg)](https://wakatime.com/@f84f446e-f24e-4763-8876-87a675a4751f)
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daiigr&theme=dark&show_icons=false" alt="Daiigr's GitHub stats" />
-
-
 ## 🧠 Currently Learning
 
 - Data Structures and Algorithms
