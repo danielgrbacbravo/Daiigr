@@ -1,6 +1,6 @@
 # Hi there! I'm Daniel Grbac Bravo 👋
 
-I'm a BSc Computer Science student at the University of Groningen, with a passion for software development and problem-solving. I'm currently honing my skills in Data Structures, Algorithms and Logic and Reasoning, along with C procedural programming.
+I'm a BSc Computer Science student at the University of Groningen, with a passion for software development and problem-solving. I'm currently honing my skills in Descrete Structures, Computer Architecture 
 
 [![wakatime](https://wakatime.com/badge/user/f84f446e-f24e-4763-8876-87a675a4751f.svg)](https://wakatime.com/@f84f446e-f24e-4763-8876-87a675a4751f)
 
