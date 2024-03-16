@@ -12,7 +12,6 @@
 
 struct Daniel {
     var name: String = "Daniel"
-    var age: Int // Consider adding your age if you're comfortable
     var education: String = "BSc in Computer Science"
     var university: String = "University of Groningen"
     var year: Int = 1
