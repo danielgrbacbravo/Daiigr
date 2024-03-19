@@ -13,9 +13,6 @@ Interests: iOS Development, C Programming, Linux <br>
 Hobbies: Cooking, Photography, Gaming <br>
 Future Aspirations: Building impactful software, Contributing to open-source <br>
 Notable Projects: <a href="https://github.com/Daiigr/windrider-ios.git">WindRider iOS App</a>, Apartment Web Scraper in Go
-
-
-<a href="https://github.com/Daiigr/windrider-ios.git">WindRider iOS App</a>, Apartment Web Scraper in Go
 </p>
 <h3 align="center">Current Work and Collaboration</h3>
 
